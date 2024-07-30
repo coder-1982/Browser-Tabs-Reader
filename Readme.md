@@ -9,7 +9,7 @@ The Tab Reader Extension is designed to enhance your browsing experience by prov
 - **View All Tabs**: Displays a list of all currently open tabs with their titles and URLs.
 - **Quick Navigation**: Click on a tab to navigate directly to it.
 - **Close Tabs**: Easily close tabs from the popup.
-- **Save and Restore**: Keep your tabs organized and accessible at any time.
+- **Save and Restore**: Pending.
 
 ## Screenshots
 
@@ -31,9 +31,9 @@ The Tab Reader Extension is designed to enhance your browsing experience by prov
    
 2. **Load the Extension**:
 
--Open Chrome and navigate to chrome://extensions/.
--Enable Developer Mode (toggle switch at the top-right).
--Click on "Load unpacked" and select the tab-reader-extension directory.
+- Open Chrome and navigate to chrome://extensions/.
+- Enable Developer Mode (toggle switch at the top-right).
+-C lick on "Load unpacked" and select the tab-reader-extension directory.
 
 3. **Verify Installation**:
 
@@ -55,11 +55,11 @@ We welcome contributions! Please follow these guidelines:
 5. Create a pull request with a detailed description of your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
-- [Chrome Extensions Documentation]https://developer.chrome.com/docs/extensions
-- [Mozilla Developer Network]https://developer.mozilla.org/en-US/
+- [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 ## Contact
-For support or suggestions, please open an issue on GitHub or contact me at [bob.coder.1982@gmail.com].
+For support or suggestions, please open an issue on GitHub or contact me at bob.coder.1982@gmail.com.
